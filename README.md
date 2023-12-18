@@ -67,6 +67,7 @@ Initially created by [Marko](https://markodenic.com) at [Web Development Resourc
 | https://supabase.com                          | **Supabase** is an open source Firebase alternative. Start your project with a Postgres Database, Authentication, instant APIs, Realtime subscriptions and Storage.
 | https://railway.app/                          | **Railway** is an infrastructure platform where you can provision infrastructure, develop with that infrastructure locally, and then deploy to the cloud.|
 | https://fly.io/                               | **Fly** is a platform for running full stack apps and databases close to your users. We’ve been hammering on this thing since 2017, and we think it’s pretty great. |
+| https://fleek.co/                             | **Fleek** makes it easy to build websites and apps on the new open web: permissionless, trustless, censorship resistant, and free of centralized gatekeepers. |
 
 [⬆ back to top](#table-of-contents)
 
@@ -107,7 +108,6 @@ Initially created by [Marko](https://markodenic.com) at [Web Development Resourc
 | https://learn.microsoft.com/en-gb/training/                      |
 | https://www.codementor.io/events                                 |
 | https://eloquentjavascript.net/                                  |
-| https://skillcombo.com/courses/development/web-development/free/ |
 | https://code.org/                                                |
 | https://www.interviewbit.com/                                    |
 | https://css-tricks.com/                                          |
@@ -120,6 +120,7 @@ Initially created by [Marko](https://markodenic.com) at [Web Development Resourc
 | ---------------------------------- |
 | https://www.codewars.com/          |
 | https://topcoder.com               |
+| https://dapp-world.com/problems    |
 | https://www.codingame.com/start    |
 | https://hackerrank.com             |
 | https://projecteuler.net           |
@@ -170,6 +171,7 @@ Initially created by [Marko](https://markodenic.com) at [Web Development Resourc
 
 | Website                              |
 | -------------------------------      |
+| https://workremote.cc/               |
 | https://www.showwcase.com/jobs       |
 | https://www.remotefrontendjobs.com/  |
 | https://jobboardsearch.com           |
@@ -190,7 +192,6 @@ Initially created by [Marko](https://markodenic.com) at [Web Development Resourc
 | https://www.remotehub.com            |
 | https://startup.jobs/remote-jobs     |
 | https://remotescout.ch               |
-| https://jobstache.com                |
 | https://jobsinjs.com                 |
 | https://devemploy.com                |
 | https://echojobs.io                  |
@@ -264,6 +265,7 @@ Initially created by [Marko](https://markodenic.com) at [Web Development Resourc
 
 | Website                                   |
 | ----------------------------------------- |
+| https://svgmix.com                        | 
 | https://free-icons.github.io/free-icons   |
 | https://fontawesome.com                   |
 | https://flaticon.com                      |
@@ -500,7 +502,6 @@ Initially created by [Marko](https://markodenic.com) at [Web Development Resourc
 | [Visbug](https://chrome.google.com/webstore/detail/visbug/cdockenadnadldjbbgcallicgledbeoc/related)                                                |
 | [Colorzilla](https://chrome.google.com/webstore/detail/colorzilla/bhlhnicpbhignbdhedgjhgdocnmhomnp?hl=en-US)                                       |
 | [Window Resizer](https://chrome.google.com/webstore/detail/window-resizer/kkelicaakdanhinjdeammmilcgefonfh?hl=en)                                  |
-| [GitHunt](https://chrome.google.com/webstore/detail/githunt/khpcnaokfebphakjgdgpinmglconplhp?hl=en)                                                |
 | [React Developer Tools](https://chrome.google.com/webstore/detail/react-developer-tools/fmkadmapgofadopljbjfkapdkoienihi?hl=en)                    |
 | [Hackertab.dev - All Developer news in 1 tab](https://chrome.google.com/webstore/detail/hackertabdev-developer-ne/ocoipcahhaedjhnpoanfflhbdcpmalmp)|
 | [Vue Developer Tools](https://chrome.google.com/webstore/detail/vuejs-devtools/nhdogjmejiglipccpnnnanhbledajbpd)   |
@@ -602,7 +603,6 @@ Initially created by [Marko](https://markodenic.com) at [Web Development Resourc
 | [JSONT](https://www.jsont.run/)                                                  | A simple and powerful JSON formatting tool                                                                   |
 | [JSON Crack](https://jsoncrack.com/)                                             | A simple tool to visualize JSON Code in a neat tree structure                                                 |
 | [Codepng](https://codepng.app/)                                                  | Convert your source code into awesome shareable images                                                       |
-| [yuyu.ai](https://yuyu.ai/)                                                      | Is a frontend ai tool to generate html and css instantly from a jpg or png file.                             |
 | [tablebackend.com](https://tablebackend.com/)                                    | A backend for your simple projects using oowerful canvas-based data grid for handling millions of rows.      |
 
 [⬆ back to top](#table-of-contents)
@@ -615,7 +615,6 @@ Initially created by [Marko](https://markodenic.com) at [Web Development Resourc
 | [CssLayout](https://csslayout.io/)       | A site with multiple css code snippets for very frequently used components in day to day web pages |
 | [TailGrids](https://tailgrids.com/)      | 300+ Free and Premium Tailwind CSS UI Components and Sections                                      |
 | [Ayro UI Bootstrap](https://ayroui.com/) | Bootstrap UI components, snippets and sections for modern web apps                                 |
-| [UI Hut](https://www.uihut.com/home)     | Free (and premium) UI compontents or templates for Bootstrap, figma, XD, PSD etc..                 |
 | [uiverse](https://uiverse.io)            | Open-Source UI elements made with CSS & HTML where anyone can contribute.                          |
 
 [⬆ back to top](#table-of-contents)
@@ -647,10 +646,11 @@ Initially created by [Marko](https://markodenic.com) at [Web Development Resourc
 
 ## Angular UI libraries:
 
-| Website                                        | Description                                                                                                        |
-| ---------------------------------------------- | ------------------------------------------------------------------------------------------------------------------ |
-| [Taiga UI](https://taiga-ui.dev/)              | A powerful set of open source components for Angular                                                               |
-| [PrimeNG](https://www.primefaces.org/primeng/) | Angular UI Component Library featuring elegant, high-performance, accessible and fully customizable UI Components. |
+| Website                                           | Description                                                                                                        |
+| ------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------ |
+| [Taiga UI](https://taiga-ui.dev/)                 | A powerful set of open source components for Angular                                                               |
+| [PrimeNG](https://www.primefaces.org/primeng/)    | Angular UI Component Library featuring elegant, high-performance, accessible and fully customizable UI Components. |
+| [Angular Material](https://material.angular.io/)  | Angular Material is a UI library component developed by Google in 2014.                                            |
 
 [⬆ back to top](#table-of-contents)
 
